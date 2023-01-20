@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MVVM-SwiftUI-Demo
+
+  Created by Karamjit Singh on 19/01/23.
+  
+*/
+"login_heading" = "Sign In";
+
+"email_heading" = "Email*";
+
+"password" = "Password*";
+
+"login_cta" = "Sign In";
+
+"forgot_password" = "Forgot Password?";
+
+
